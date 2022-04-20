@@ -10,7 +10,7 @@
   "SYMBOL": "NODVK",
   "MAX_SUPPLY": 8500,
   "WEI_COST": 500000000000000000,
-  "DISPLAY_COST": 0.5,
+  "DISPLAY_COST": 0.25,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/nuke-odin-valknut",
